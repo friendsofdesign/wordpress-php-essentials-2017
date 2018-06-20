@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [INTRODUCTION](introduction.md)
+* [INTRODUCTION](README.md)
 * [MODULE 1 – Introduction to Wordpress](module-1-introduction-to-wordpress.md)
 * [MODULE 2 – Installing Wordpress](module-2-installing-wordpress.md)
 * [MODULE 3 – The Wordpress Interface](module-3-the-wordpress-interface.md)
